@@ -6,5 +6,5 @@ Link to website - https://zhiyangzeng.github.io/
 Dependencies - To run these notebooks, make sure you have installed following python libraries: Plotly, Networkx, Sklearn, Matplotlib and Pandas.
 
 ## NOTES:
-- The main Notebook is at YelpDatasetAnalysis. All the other notebooks are linked in it. Please start from here:  
+- The main Notebook is at YelpDatasetAnalysis. All the other notebooks are linked in it. Please start from there: https://github.com/NazifALI/Yelp-Data-Analysis/blob/master/YelpDatasetAnalysis.ipynb
 - Since we used plotly to generate multiple graphs, they cannot be seen in github. This affects 2 of our the notebooks: 489porjects.ipynb and Dataset_exploring.ipynb  
